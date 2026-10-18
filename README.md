@@ -16,17 +16,13 @@ The demo uses new synthetic data, so its results will differ from those obtained
 These graphs were produced using the original course datasets.
 The runnable demo uses synthetic data and produces different results.
 
-### RLS parameter convergence
-![Parameter convergence](images/exam_rls_convergence.png)
+![Parameter convergence](images/images%3Aexam_rls_convergence.png)
 
-### Model order selection
-![Model order selection](images/exam_model_order.png)
+![Model order selection](images/images%3Aexam_model_order.png)
 
-### Model validation
-![Model validation](images/exam_validation.png)
+![Model validation](images/images%3Aexam_validation.png)
 
-### Classification results
-![Classification results](images/exam_classification.png)
+![Classification results](images/images%3Aexam_classification.png)
 
 ## Project overview
 
