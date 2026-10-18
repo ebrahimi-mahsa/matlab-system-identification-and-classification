@@ -11,6 +11,22 @@ I originally developed this code for an academic examination using datasets supp
 To make the project runnable independently, this repository includes `generate_demo_data.m`, which creates reproducible synthetic datasets for both exercises. The original identification and classification methods are retained, allowing readers to run the workflow and explore its results without access to the course functions.
 
 The demo uses new synthetic data, so its results will differ from those obtained during the examination.
+## Original examination results
+
+These graphs were produced using the original course datasets.
+The runnable demo uses synthetic data and produces different results.
+
+### RLS parameter convergence
+![Parameter convergence](images/exam_rls_convergence.png)
+
+### Model order selection
+![Model order selection](images/exam_model_order.png)
+
+### Model validation
+![Model validation](images/exam_validation.png)
+
+### Classification results
+![Classification results](images/exam_classification.png)
 
 ## Project overview
 
